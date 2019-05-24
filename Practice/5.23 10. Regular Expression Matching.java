@@ -34,3 +34,25 @@ class Solution {
         return dp[ls][lp];
     }
 }
+//Combine those two steps
+class Solution {
+    public int minCut(String s) {
+        int l = s.length();
+        if (l == 0) {
+            return 0;
+        }
+        boolean[][] isPal = new boolean[l][l];  
+        int[] dp = new int[l];
+        //init when i == j, dp[i][j] = 0;
+        for (int i = 0; i < l; i++) {
+            dp[i] = Integer.MAX_VALUE;
+            for (int k = 0; k <= i; k++) {
+                if (s.charAt(i) == s.charAt(k) && (k + 1 > i - 1 || isPal[k + 1][i - 1])) {
+                    isPal[k][i] = true;
+                    dp[i] = k == 0 ? 0 : Math.min(dp[i], dp[k - 1] + 1);
+                }
+            }
+        }
+        return dp[l - 1];
+    }
+}
