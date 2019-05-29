@@ -8,6 +8,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+ 
  //The second trial use preorder traversal
  //have preorder traversal, when it is null, record null
     public String serialize(TreeNode root) {
