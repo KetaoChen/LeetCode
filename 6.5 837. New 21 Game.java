@@ -1,4 +1,9 @@
 837. New 21 Game
+
+//优化思路！！发现N和K永远相差相同的数值，因为K和N是同时被减的。
+//所以由此可以发现不用把每一个N和K都遍历一遍，所以降了一维。
+//另外看W的维度，对于每一个新的N，都要从N-1到N-W给遍历一遍，所以可以引入一个slide window来记录当前这个区间里的总和，又把一个O(n)的操作进化为O(1)
+//这就是这个题目的魅力了。
 class Solution {
     public double new21Game(int N, int K, int W) {
         int start = N - K + 1;
