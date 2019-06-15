@@ -1,9 +1,9 @@
----
+﻿---
 tags: ["leetcode","depth-first search"]
 created: "2019/6/13 下午4:54:56"
 difficulty: "medium"
 ---
-
+ 
 # [1080-insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
 
 ## Problem
