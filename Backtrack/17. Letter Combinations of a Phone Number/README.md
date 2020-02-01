@@ -28,7 +28,7 @@
 * [Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)
 * [Binary Watch (Easy)](https://leetcode.com/problems/binary-watch/)
 
-## Solution 
+## Solution 1: Backtrack
 
 ```java
 // OJ: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
@@ -55,6 +55,35 @@ class Solution {
             helper(digits, phone, index + 1, res, sb);
             sb.deleteCharAt(sb.length() - 1);
         }
+    }
+}
+```
+
+## Solution 2: BFS
+```java
+// OJ: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+// Author: https://leetcode.com/charlesna/
+// Time: O(4^n) number of all the combinations
+// Space: O(4^n)
+class Solution {
+    public List<String> letterCombinations(String digits) {
+        if (digits.length() == 0) {
+            return new ArrayList<>();
+        }
+        String[] phone = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        Queue<String> q = new LinkedList<>();
+        q.offer("");
+        for (char num : digits.toCharArray()) {
+            int size = q.size();
+            for (int i = 0; i < size; i++) {
+                String cur = q.poll();
+                for (char c : phone[num - '0'].toCharArray()) {
+                    String next = cur + c;
+                    q.offer(next);
+                }
+            }
+        }
+        return new ArrayList<>(q);
     }
 }
 ```
