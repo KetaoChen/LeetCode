@@ -21,4 +21,4 @@ copy(
     + `${companies}`
     + `${topics}`
     + `${similarQuestions}`
-    + `## Solution 1.\n\n\`\`\`java\n\n\`\`\``)
+    + `## Solution \n\n\`\`\`java\n\n\`\`\``)

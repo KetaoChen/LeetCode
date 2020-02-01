@@ -4,7 +4,7 @@ if [ -z "$1" ]
     echo "Quiz Title not provided"
     exit 1
 fi
-cd leetcode/bfs/
+cd leetcode/
 folder=$1
 mkdir "$folder"
 cd "$folder"
