@@ -4,12 +4,12 @@ Welcome to Charlesna Algorithm
 
 A journey of a thousand miles begins with one small step.
 
-My conclusion and Java code for leetcode. 
+My conclusion and Java code for Leetcode. 
 
 Thanks to https://github.com/lzl124631x and https://github.com/wisdompeak. 
 
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
-133 | Clone Graph | Medium | [Solution](Leetcode/BFS/133.%20Clone%20Graph)
+133 | Clone Graph | Medium | [Solution](BFS/133.%20Clone%20Graph)
 
