@@ -9,5 +9,5 @@ folder=$1
 mkdir "$folder"
 cd "$folder"
 cat "../../quiz.js" > README.md
-cat "../../answer.js" > s1.java
+cat "../../answer.js" > solution.java
 echo "DONE: "$folder
