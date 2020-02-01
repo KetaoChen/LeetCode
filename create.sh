@@ -4,10 +4,10 @@ if [ -z "$1" ]
     echo "Quiz Title not provided"
     exit 1
 fi
-cd leetcode/
+cd backtrack/
 folder=$1
 mkdir "$folder"
 cd "$folder"
-cat "../../../quiz.js" > README.md
-cat "../../../answer.js" > s1.java
+cat "../../quiz.js" > README.md
+cat "../../answer.js" > s1.java
 echo "DONE: "$folder
