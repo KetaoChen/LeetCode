@@ -28,7 +28,7 @@
 * [Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)
 * [Binary Watch (Easy)](https://leetcode.com/problems/binary-watch/)
 
-## Solution 1: Backtrack
+## Solution 1: Backtrack 
 
 ```java
 // OJ: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
