@@ -10,7 +10,7 @@
     public int val;
     public List&lt;Node&gt; neighbors;
 }
-</pre>
+</pre> 
 
 <p>&nbsp;</p>
 
