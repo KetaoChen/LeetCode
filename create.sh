@@ -4,10 +4,9 @@ if [ -z "$1" ]
     echo "Quiz Title not provided"
     exit 1
 fi
-cd DP/
 folder=$1
 mkdir "$folder"
 cd "$folder"
-cat "../../quiz.js" > README.md
-cat "../../answer.js" > solution.java
+cat "../quiz.js" > README.md
+cat "../answer.js" > solution.java
 echo "DONE: "$folder
