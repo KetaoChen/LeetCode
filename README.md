@@ -26,5 +26,6 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Stack/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
+1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
 1344 | Jump Game V | Hard | [Solution](DP/1344.%20Jump%20Game%20V)
 
