@@ -28,4 +28,5 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
 1344 | Jump Game V | Hard | [Solution](DP/1344.%20Jump%20Game%20V)
+1349 | Maximum Students Taking Exam | Hard | [Solution](DP/1349.%20Maximum%20Students%20Taking%20Exam)
 
