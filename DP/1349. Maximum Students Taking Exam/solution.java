@@ -1,5 +1,65 @@
 // OJ: https://leetcode.com/problems/maximum-students-taking-exam/
 // Author: https://leetcode.com/charlesna/
+// Time: O(m*4^n)
+// Space: O(m*(2^n)
+class Solution {
+    public int maxStudents(char[][] seats) {
+        int row = seats.length;
+        int col = seats[0].length;
+        //this mask represent if all the seat are student.
+        //the answer must be a subset of the mask
+        int[] mask = new int[row + 1];
+        for (int i = 0; i < row; i++) {
+            int val = 0;
+            for (char c : seats[i]) {
+                val = c == '.' ? val * 2 + 1 : val * 2;
+            }
+            mask[i + 1] = val;
+        }
+        //dp[i][j] represent when the state of ith row is j, the max students for first ith row.
+        //dp[i][j] = max(dp[i - 1][k]) where k is valid and no conflict between j and k
+        int[][] dp = new int[row + 1][(1 << col)];
+        for (int m = 1; m <= row; m++) {
+            Arrays.fill(dp[m], -1);
+            for (int j = 0; j < (1 << col); j++) {
+                //this state should be a subset of mask
+                if ((j | mask[m]) != mask[m]) {
+                    continue;
+                }
+                //there should be no adjacent student
+                int count = countBit(j);
+                if (count == -1) {
+                    continue;
+                }
+                for (int k = 0; k < (1 << col); k++) {
+                    if (dp[m - 1][k] != -1 && ((j << 1) & k) == 0 && (j & (k << 1)) == 0) {
+                        dp[m][j] = Math.max(dp[m][j], dp[m - 1][k] + count);
+                    }
+                }
+            }
+        }
+        int res = 0;
+        for (int i = 0; i < (1 << col); i++) {
+            res = Math.max(res, dp[row][i]);
+        }
+        return res;
+    }
+    private int countBit(int i) {
+        if ((i & (i << 1)) != 0) {
+            return -1;
+        }
+        int res = 0;
+        while (i > 0) {
+            res += i % 2;
+            i /= 2;
+        }
+        return res;
+    }
+}
+
+
+// OJ: https://leetcode.com/problems/maximum-students-taking-exam/
+// Author: https://leetcode.com/charlesna/
 // Time: O(2^(m*n)
 // Space: O(m*n*2^(m*n)
 class Solution {
