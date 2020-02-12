@@ -21,6 +21,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 84 | Largest Rectangle in Histogram | Hard | [Solution](Stack/84.%20Largest%20Rectangle%20in%20Histogram)
 133 | Clone Graph | Medium | [Solution](BFS/133.%20Clone%20Graph)
 216 | Combination Sum III | Medium | [Solution](Backtrack/216.%20Combination%20Sum%20III)
+260 | Single Number III | Medium | [Solution](Bit%20Manipulation/260.%20Single%20Number%20III)
 307 | Range Sum Query - Mutable | Medium | [Solution](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 377 | Combination Sum IV | Medium | [Solution](DP/377.%20Combination%20Sum%20IV)
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
