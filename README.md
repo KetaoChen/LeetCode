@@ -31,6 +31,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Stack/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](Bit%20Manipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
+990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
