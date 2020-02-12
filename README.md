@@ -24,6 +24,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 307 | Range Sum Query - Mutable | Medium | [Solution](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 377 | Combination Sum IV | Medium | [Solution](DP/377.%20Combination%20Sum%20IV)
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
+476 | Number Complement | Easy | [Solution](Bit%20Manipulation/476.%20Number%20Complement)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Stack/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
