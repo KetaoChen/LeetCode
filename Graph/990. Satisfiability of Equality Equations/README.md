@@ -70,7 +70,7 @@
 **Related Topics**:  
 [Union Find](https://leetcode.com/tag/union-find/), [Graph](https://leetcode.com/tag/graph/)
 
-## Solution 1: One Pass but Concise
+## Solution 1: Two Pass but Concise
 
 ```java
 // OJ: https://leetcode.com/problems/satisfiability-of-equality-equations/
