@@ -1,6 +1,6 @@
 // OJ: https://leetcode.com/problems/couples-holding-hands/
 // Author: https://leetcode.com/charlesna/
-// Time: O(n)
+// Time: O(n^2)
 // Space: O(1)
 class Solution {
     public int minSwapsCouples(int[] row) {
