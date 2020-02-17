@@ -32,6 +32,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](Bit%20Manipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
+947 | Most Stones Removed with Same Row or Column | Medium | [Solution](Graph/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
