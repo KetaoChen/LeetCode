@@ -23,6 +23,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 201 | Bitwise AND of Numbers Range | Medium | [Solution](Bit%20Manipulation/201.%20Bitwise%20AND%20of%20Numbers%20Range)
 216 | Combination Sum III | Medium | [Solution](Backtrack/216.%20Combination%20Sum%20III)
 260 | Single Number III | Medium | [Solution](Bit%20Manipulation/260.%20Single%20Number%20III)
+264 | Ugly Number II | Medium | [Solution](DP/264.%20Ugly%20Number%20II)
 307 | Range Sum Query - Mutable | Medium | [Solution](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 371 | Sum of Two Integers | Easy | [Solution](Bit%20Manipulation/371.%20Sum%20of%20Two%20Integers)
 377 | Combination Sum IV | Medium | [Solution](DP/377.%20Combination%20Sum%20IV)
