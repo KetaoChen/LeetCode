@@ -42,13 +42,13 @@ class Solution {
     public int nthUglyNumber(int n) {
         List<Integer> ugly = new ArrayList<>();
         ugly.add(1);
-		// use three indexes to record the index on the ugly sequence for each prime
+        // use three indexes to record the index on the ugly sequence for each prime
         int index2 = 0;
         int index3 = 0;
         int index5 = 0;
         for (int i = 1; i < n; i++) {
             int next = Math.min(ugly.get(index2) * 2, Math.min(ugly.get(index3) * 3, ugly.get(index5) * 5));
-			// for example, if the next ugly number is 6. then index2++, index3++, which can prevent duplication. 
+            // for example, if the next ugly number is 6. then index2++, index3++, which can prevent duplication. 
             if (next == ugly.get(index2) * 2) {
                 index2++;
             }
