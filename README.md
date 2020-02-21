@@ -33,6 +33,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Stack/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](Bit%20Manipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
+837 | New 21 Game | Medium | [Solution](DP/837.%20New%2021%20Game)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](Graph/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
