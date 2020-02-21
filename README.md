@@ -38,6 +38,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](Graph/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
+1277 | Count Square Submatrices with All Ones | Medium | [Solution](DP/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
 1344 | Jump Game V | Hard | [Solution](DP/1344.%20Jump%20Game%20V)
