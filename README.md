@@ -37,6 +37,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 837 | New 21 Game | Medium | [Solution](DP/837.%20New%2021%20Game)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
+931 | Minimum Falling Path Sum | Medium | [Solution](DP/931.%20Minimum%20Falling%20Path%20Sum)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](Graph/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
