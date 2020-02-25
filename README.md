@@ -43,6 +43,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](DP/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
+1289 | Minimum Falling Path Sum II | Hard | [Solution](DP/1289.%20Minimum%20Falling%20Path%20Sum%20II)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
 1344 | Jump Game V | Hard | [Solution](DP/1344.%20Jump%20Game%20V)
 1349 | Maximum Students Taking Exam | Hard | [Solution](DP/1349.%20Maximum%20Students%20Taking%20Exam)
