@@ -69,7 +69,69 @@ maxWidth = 20
 **Related Topics**:  
 [String](https://leetcode.com/tag/string/)
 
-## Solution 
+## Solution 1: Good Coding Style: OOD
+
+```java
+// OJ: https://leetcode.com/problems/text-justification/
+// Author: https://leetcode.com/charlesna/
+// Time: O(n)
+// Space: O(n)
+class Solution {
+    public List<String> fullJustify(String[] words, int maxWidth) {
+        List<String> res = new ArrayList<>();
+        for (int left = 0; left < words.length; ) {
+            int[] right = findRight(words, left, maxWidth);
+            res.add(justify(words, left, right, maxWidth));
+            left = right[0] + 1;
+        }
+        return res;
+    }
+    private int[] findRight(String[] words, int cur, int maxWidth) {
+        int count = words[cur++].length();
+        while (cur < words.length && count + words[cur].length() + 1 <= maxWidth) {
+            count += words[cur++].length() + 1;
+        }
+        return new int[]{cur - 1, count};
+    }
+    private String justify(String[] words, int left, int[] right, int maxWidth) {
+        if (left == right[0] || right[0] == words.length - 1) {
+            return leftJustify(words, left, right, maxWidth);
+        }
+        int allSpace = maxWidth - right[1];
+        int avg = allSpace / (right[0] - left);
+        int extra = allSpace % (right[0] - left);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i <= right[0] - left; i++) {
+            sb.append(words[left + i]);
+            if (i == right[0] - left) {
+                continue;
+            }
+            sb.append(" ");
+            for (int add = 0; add < avg; add++) {
+                sb.append(" ");
+            }
+            if (i < extra) {
+                sb.append(" ");
+            }
+        }
+        return sb.toString();
+    }
+    private String leftJustify(String[] words, int left, int[] right, int maxWidth) {
+        StringBuilder sb = new StringBuilder();
+        while (left <= right[0]) {
+            sb.append(words[left++] + " "); 
+        }
+        sb.deleteCharAt(sb.length() - 1);
+        while (sb.length() < maxWidth) {
+            sb.append(" ");
+        }        
+        return sb.toString();
+    }
+}
+```
+
+
+## Solution 2: My Method
 
 ```java
 // OJ: https://leetcode.com/problems/text-justification/
