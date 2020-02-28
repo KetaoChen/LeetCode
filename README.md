@@ -16,6 +16,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 17 | Letter Combinations of a Phone Number | Medium | [Solution](Backtrack/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 39 | Combination Sum | Medium | [Solution](Backtrack/39.%20Combination%20Sum)
 40 | Combination Sum II | Medium | [Solution](Backtrack/40.%20Combination%20Sum%20II)
+54 | Spiral Matrix | Medium | [Solution](Trick/54.%20Spiral%20Matrix)
 60 | Permutation Sequence | Medium | [Solution](Math/60.%20Permutation%20Sequence)
 68 | Text Justification | Hard | [Solution](Math/68.%20Text%20Justification)
 77 | Combinations | Medium | [Solution](Backtrack/77.%20Combinations)
