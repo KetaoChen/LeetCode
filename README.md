@@ -38,6 +38,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](Bit%20Manipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
+805 | Split Array With Same Average | Hard | [Solution](DP/805.%20Split%20Array%20With%20Same%20Average)
 837 | New 21 Game | Medium | [Solution](DP/837.%20New%2021%20Game)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
