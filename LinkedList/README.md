@@ -9,7 +9,7 @@
 4. Since linkedlist can not check prev, sometimes we need prev pointer to record
 
 
-### Tricks
+## Tricks
   - NullPointerException: make sure to check null for each node
   - Last node needs to point to null
   - Need to ask whether the pointer or the value is mutable
