@@ -35,7 +35,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 474 | Ones and Zeroes | Medium | [Solution](DP/474.%20Ones%20and%20Zeroes)
 476 | Number Complement | Easy | [Solution](Bit%20Manipulation/476.%20Number%20Complement)
 523 | Continuous Subarray Sum | Medium | [Solution](Array/523.%20Continuous%20Subarray%20Sum)
-581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Stack/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
+581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](Bit%20Manipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
