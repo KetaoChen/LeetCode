@@ -21,6 +21,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 68 | Text Justification | Hard | [Solution](Math/68.%20Text%20Justification)
 77 | Combinations | Medium | [Solution](Backtrack/77.%20Combinations)
 84 | Largest Rectangle in Histogram | Hard | [Solution](Stack/84.%20Largest%20Rectangle%20in%20Histogram)
+92 | Reverse Linked List II | Medium | [Solution](LinkedList/92.%20Reverse%20Linked%20List%20II)
 133 | Clone Graph | Medium | [Solution](BFS/133.%20Clone%20Graph)
 148 | Sort List | Medium | [Solution](LinkedList/148.%20Sort%20List)
 174 | Dungeon Game | Hard | [Solution](DP/174.%20Dungeon%20Game)
