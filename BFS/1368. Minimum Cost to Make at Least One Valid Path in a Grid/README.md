@@ -75,8 +75,6 @@ The total cost = 3.
 // Space: O(m*n)
 class Solution {
     public int minCost(int[][] grid) {
-        // dp[i][j] is the min chagne to reach right bot at point[i][j]
-        // dp[i][j] = 
         int n = grid.length;
         int m = grid[0].length;
         Queue<int[]> q = new LinkedList<>();
