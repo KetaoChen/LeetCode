@@ -17,5 +17,6 @@
 
 
 \# | Title | Difficulty | Solution
+---|---|---|---
 92 | Reverse Linked List II | Medium | [Solution](LinkedList/92.%20Reverse%20Linked%20List%20II)
 148 | Sort List | Medium | [Solution](LinkedList/148.%20Sort%20List)
