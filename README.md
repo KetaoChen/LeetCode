@@ -23,6 +23,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 84 | Largest Rectangle in Histogram | Hard | [Solution](Stack/84.%20Largest%20Rectangle%20in%20Histogram)
 92 | Reverse Linked List II | Medium | [Solution](LinkedList/92.%20Reverse%20Linked%20List%20II)
 133 | Clone Graph | Medium | [Solution](BFS/133.%20Clone%20Graph)
+139 | Word Break | Medium | [Solution](DP/139.%20Word%20Break)
 148 | Sort List | Medium | [Solution](LinkedList/148.%20Sort%20List)
 174 | Dungeon Game | Hard | [Solution](DP/174.%20Dungeon%20Game)
 201 | Bitwise AND of Numbers Range | Medium | [Solution](Bit%20Manipulation/201.%20Bitwise%20AND%20of%20Numbers%20Range)
