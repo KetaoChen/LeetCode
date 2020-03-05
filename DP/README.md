@@ -24,13 +24,13 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **Sequence:** 139, 837, 931, 1289
 
-**Backpack:** 377, 474, 956
+**Backpack:** 377, 474, 494, 956
 
 **Interval:** 
 
 **Coordinate:** 174, 221, 1277, 1301, 1349
 
-**Partition:** 
+**Partition:** 664
 
 
 

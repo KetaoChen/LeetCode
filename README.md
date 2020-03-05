@@ -37,6 +37,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 474 | Ones and Zeroes | Medium | [Solution](DP/474.%20Ones%20and%20Zeroes)
 476 | Number Complement | Easy | [Solution](Bit%20Manipulation/476.%20Number%20Complement)
+494 | Target Sum | Medium | [Solution](DP/494.%20Target%20Sum)
 523 | Continuous Subarray Sum | Medium | [Solution](Array/523.%20Continuous%20Subarray%20Sum)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
