@@ -40,6 +40,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 523 | Continuous Subarray Sum | Medium | [Solution](Array/523.%20Continuous%20Subarray%20Sum)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
+664 | Strange Printer | Hard | [Solution](DP/664.%20Strange%20Printer)
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](Backtrack/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](Bit%20Manipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
