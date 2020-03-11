@@ -27,6 +27,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 148 | Sort List | Medium | [Solution](LinkedList/148.%20Sort%20List)
 174 | Dungeon Game | Hard | [Solution](DP/174.%20Dungeon%20Game)
 201 | Bitwise AND of Numbers Range | Medium | [Solution](Bit%20Manipulation/201.%20Bitwise%20AND%20of%20Numbers%20Range)
+213 | House Robber II | Medium | [Solution](DP/213.%20House%20Robber%20II)
 216 | Combination Sum III | Medium | [Solution](Backtrack/216.%20Combination%20Sum%20III)
 221 | Maximal Square | Medium | [Solution](DP/221.%20Maximal%20Square)
 260 | Single Number III | Medium | [Solution](Bit%20Manipulation/260.%20Single%20Number%20III)

@@ -22,7 +22,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 ### Category
 
-**Sequence:** 139, 837, 931, 1289
+**Sequence:** 139, 213, 837, 931, 1289
 
 **Backpack:** 377, 474, 956
 
@@ -44,6 +44,7 @@ Sometimes, we need to think about the basic case clear. e.g. 956. Tallest Billbo
 Because of the transfer equation, we have to make sure the indexes are not out of bound. 
 3. Update order.
 We need to update the state which will not effect other result in this level first. e.g. Backpack problems. From larger capacity. 
+4. Circle can be translate to sequence. 213. House Robber II
 
 ### Tech
 1. Bit Mask: 
