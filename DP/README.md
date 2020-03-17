@@ -22,7 +22,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 ### Category
 
-**Sequence:** 139, 213, 837, 931, 1289
+**Sequence:** 139, 213, 740, 837, 931, 1289
 
 **Backpack:** 377, 474, 956
 
