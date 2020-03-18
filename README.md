@@ -64,6 +64,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1289 | Minimum Falling Path Sum II | Hard | [Solution](DP/1289.%20Minimum%20Falling%20Path%20Sum%20II)
 1301 | Number of Paths with Max Score | Hard | [Solution](DP/1301.%20Number%20of%20Paths%20with%20Max%20Score)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
+1330 | Reverse Subarray To Maximize Array Value | Hard | [Solution](Math/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value)
 1344 | Jump Game V | Hard | [Solution](DP/1344.%20Jump%20Game%20V)
 1349 | Maximum Students Taking Exam | Hard | [Solution](DP/1349.%20Maximum%20Students%20Taking%20Exam)
 1368 | Minimum Cost to Make at Least One Valid Path in a Grid | Hard | [Solution](BFS/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid)
