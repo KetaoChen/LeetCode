@@ -43,6 +43,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 494 | Target Sum | Medium | [Solution](DP/494.%20Target%20Sum)
 523 | Continuous Subarray Sum | Medium | [Solution](Array/523.%20Continuous%20Subarray%20Sum)
 525 | Contiguous Array | Medium | [Solution](Math/525.%20Contiguous%20Array)
+552 | Student Attendance Record II | Hard | [Solution](DP/552.%20Student%20Attendance%20Record%20II)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
 664 | Strange Printer | Hard | [Solution](DP/664.%20Strange%20Printer)
