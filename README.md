@@ -13,6 +13,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
+10 | Regular Expression Matching | Hard | [Solution](DP/10.%20Regular%20Expression%20Matching)
 17 | Letter Combinations of a Phone Number | Medium | [Solution](Backtrack/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 39 | Combination Sum | Medium | [Solution](Backtrack/39.%20Combination%20Sum)
 40 | Combination Sum II | Medium | [Solution](Backtrack/40.%20Combination%20Sum%20II)

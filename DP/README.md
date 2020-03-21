@@ -22,17 +22,42 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 ### Category
 
-**Sequence:** 139, 213, 740, 837, 931, 1289
+**Sequence:** 
 
-**Backpack:** 377, 474, 956
+    Painting House: I, II, Falling Path I, II 
+    House Robber: I, II, III, Delete and Earn, Pizza with 3n Slices
+    Match: Word Break,
+    LIS: LIS, Russion Enve
+    Other: New 21 Game
+    
+
+**Bi-Sequence:** 
+    
+    Match: Regex
+    LCS: 
+    
+
+**Backpack:** 
+    
+    Combination: Combination Sum
+    01: One and Zero
+    Other: Tallest Billboard
 
 **Interval:** 
+    
+    Eliminate: Burst Balloon
+    Extend: Strange Printer
+    Palindrone:
 
-**Coordinate:** 174, 221, 1277, 1301, 1349
+**Coordinate:** 
+    
+    Path: Dungeon Game, Number of Path with Max Score
+    Match: Maximal Square, Count Submatrix
+    Bit: Maximum Students Taking Exam
 
-**Partition:** 664
+**DFS & Memo:** 
 
-**DFS & Memo:**1340
+    Jump Game IV
 
 
 
