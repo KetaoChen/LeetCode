@@ -46,6 +46,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 525 | Contiguous Array | Medium | [Solution](Math/525.%20Contiguous%20Array)
 552 | Student Attendance Record II | Hard | [Solution](DP/552.%20Student%20Attendance%20Record%20II)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
+583 | Delete Operation for Two Strings | Medium | [Solution](DP/583.%20Delete%20Operation%20for%20Two%20Strings)
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
 664 | Strange Printer | Hard | [Solution](DP/664.%20Strange%20Printer)
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](Backtrack/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)

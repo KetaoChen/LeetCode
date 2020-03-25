@@ -34,7 +34,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 **Bi-Sequence:** 
     
     Match: Regex
-    LCS: 
+    LCS: Delete Operation for Two Strings, Edit Distance, Interleaving String
     
 
 **Backpack:** 
