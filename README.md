@@ -58,6 +58,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
 931 | Minimum Falling Path Sum | Medium | [Solution](DP/931.%20Minimum%20Falling%20Path%20Sum)
+943 | Find the Shortest Superstring | Hard | [Solution](DP/943.%20Find%20the%20Shortest%20Superstring)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](Graph/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 956 | Tallest Billboard | Hard | [Solution](DP/956.%20Tallest%20Billboard)
 990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)

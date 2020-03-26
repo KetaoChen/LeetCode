@@ -46,7 +46,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 **Interval:** 
     
     Eliminate: Burst Balloon
-    Extend: Strange Printer
+    Extend: Strange Printer, Find the Shortest Superstring
     Palindrone:
 
 **Coordinate:** 
@@ -76,3 +76,4 @@ We need to update the state which will not effect other result in this level fir
 Use bit to represent state, and O(1) time complexity to check the state.
 2. Elimination variable:
 When there is relationship between the varibles in the state, we can utilize the relationship to reduce dimension.
+3. Use pi array to backtrack the path. (TSP 943)
