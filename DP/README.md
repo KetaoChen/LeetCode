@@ -24,8 +24,8 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **Sequence:** 
 
-    Painting House: I, II, Falling Path I, II 
-    House Robber: I, II, III, Delete and Earn, Pizza with 3n Slices
+    Painting House: I, II, Falling Path I, II, Longest Turbulent Subarray
+    House Robber: I, II, III, Delete and Earn, Pizza with 3n Slices, Plant Tree(luogu 1484)
     Match: Word Break,
     LIS: LIS, Russion Enve
     Other: New 21 Game
