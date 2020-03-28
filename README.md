@@ -64,6 +64,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 956 | Tallest Billboard | Hard | [Solution](DP/956.%20Tallest%20Billboard)
 978 | Longest Turbulent Subarray | Medium | [Solution](DP/978.%20Longest%20Turbulent%20Subarray)
 990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)
+1092 | Shortest Common Supersequence | Hard | [Solution](DP/1092.%20Shortest%20Common%20Supersequence)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](DP/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
