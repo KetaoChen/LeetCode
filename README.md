@@ -31,6 +31,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 213 | House Robber II | Medium | [Solution](DP/213.%20House%20Robber%20II)
 216 | Combination Sum III | Medium | [Solution](Backtrack/216.%20Combination%20Sum%20III)
 221 | Maximal Square | Medium | [Solution](DP/221.%20Maximal%20Square)
+254 | Factor Combinations | Medium | [Solution](Backtrack/254.%20Factor%20Combinations)
 260 | Single Number III | Medium | [Solution](Bit%20Manipulation/260.%20Single%20Number%20III)
 264 | Ugly Number II | Medium | [Solution](DP/264.%20Ugly%20Number%20II)
 307 | Range Sum Query - Mutable | Medium | [Solution](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable)
