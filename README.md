@@ -58,6 +58,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 801 | Minimum Swaps To Make Sequences Increasing | Medium | [Solution](DP/801.%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing)
 805 | Split Array With Same Average | Hard | [Solution](DP/805.%20Split%20Array%20With%20Same%20Average)
 837 | New 21 Game | Medium | [Solution](DP/837.%20New%2021%20Game)
+842 | Split Array into Fibonacci Sequence | Medium | [Solution](Backtrack/842.%20Split%20Array%20into%20Fibonacci%20Sequence)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
 931 | Minimum Falling Path Sum | Medium | [Solution](DP/931.%20Minimum%20Falling%20Path%20Sum)
