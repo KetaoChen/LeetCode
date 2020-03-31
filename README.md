@@ -39,6 +39,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 347 | Top K Frequent Elements | Medium | [Solution](Trick/347.%20Top%20K%20Frequent%20Elements)
 371 | Sum of Two Integers | Easy | [Solution](Bit%20Manipulation/371.%20Sum%20of%20Two%20Integers)
 377 | Combination Sum IV | Medium | [Solution](DP/377.%20Combination%20Sum%20IV)
+401 | Binary Watch | Easy | [Solution](Bit%20Manipulation/401.%20Binary%20Watch)
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 456 | 132 Pattern | Medium | [Solution](Stack/456.%20132%20Pattern)
 474 | Ones and Zeroes | Medium | [Solution](DP/474.%20Ones%20and%20Zeroes)
