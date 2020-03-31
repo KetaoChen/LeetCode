@@ -34,6 +34,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 254 | Factor Combinations | Medium | [Solution](Backtrack/254.%20Factor%20Combinations)
 260 | Single Number III | Medium | [Solution](Bit%20Manipulation/260.%20Single%20Number%20III)
 264 | Ugly Number II | Medium | [Solution](DP/264.%20Ugly%20Number%20II)
+306 | Additive Number | Medium | [Solution](Math/306.%20Additive%20Number)
 307 | Range Sum Query - Mutable | Medium | [Solution](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 347 | Top K Frequent Elements | Medium | [Solution](Trick/347.%20Top%20K%20Frequent%20Elements)
 371 | Sum of Two Integers | Easy | [Solution](Bit%20Manipulation/371.%20Sum%20of%20Two%20Integers)
