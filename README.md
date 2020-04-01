@@ -71,6 +71,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1092 | Shortest Common Supersequence | Hard | [Solution](DP/1092.%20Shortest%20Common%20Supersequence)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](DP/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
+1278 | Palindrome Partitioning III | Hard | [Solution](DP/1278.%20Palindrome%20Partitioning%20III)
 1286 | Iterator for Combination | Medium | [Solution](Backtrack/1286.%20Iterator%20for%20Combination)
 1289 | Minimum Falling Path Sum II | Hard | [Solution](DP/1289.%20Minimum%20Falling%20Path%20Sum%20II)
 1301 | Number of Paths with Max Score | Hard | [Solution](DP/1301.%20Number%20of%20Paths%20with%20Max%20Score)
