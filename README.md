@@ -47,6 +47,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 494 | Target Sum | Medium | [Solution](DP/494.%20Target%20Sum)
 523 | Continuous Subarray Sum | Medium | [Solution](Array/523.%20Continuous%20Subarray%20Sum)
 525 | Contiguous Array | Medium | [Solution](Math/525.%20Contiguous%20Array)
+526 | Beautiful Arrangement | Medium | [Solution](DP/526.%20Beautiful%20Arrangement)
 552 | Student Attendance Record II | Hard | [Solution](DP/552.%20Student%20Attendance%20Record%20II)
 581 | Shortest Unsorted Continuous Subarray | Easy | [Solution](Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 583 | Delete Operation for Two Strings | Medium | [Solution](DP/583.%20Delete%20Operation%20for%20Two%20Strings)
