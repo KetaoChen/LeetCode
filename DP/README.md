@@ -30,7 +30,6 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     LIS: LIS, Russion Enve
     Other: New 21 Game
     
-
 **Bi-Sequence:** 
     
     Match: Regex
@@ -38,16 +37,16 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     
 
 **Backpack:** 
-    
-    Combination: Combination Sum
+
     01: One and Zero
+    Complete: Combination Sum
     Other: Tallest Billboard
 
-**Interval:** 
+**Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.
     
     Eliminate: Burst Balloon
     Extend: Strange Printer, Find the Shortest Superstring
-    Palindrone:
+    Palindrone: Partition I, II, III
 
 **Coordinate:** 
     
