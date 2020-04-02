@@ -44,9 +44,9 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.
     
-    Eliminate: Burst Balloon
-    Extend: Strange Printer, Find the Shortest Superstring
-    Palindrone: Partition I, II, III
+    Eliminate: Burst Balloon, Remove Boxes, Strange Printer
+    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule
+    Palindrone: Partition I, II, III, 
 
 **Coordinate:** 
     
