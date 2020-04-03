@@ -42,10 +42,10 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     Complete: Combination Sum
     Other: Tallest Billboard
 
-**Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.
+**Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.  {XXXXXXX}[k....i]  dp[i][j] = min|max(dp[i-1][k-1], max[k][i])
     
     Eliminate: Burst Balloon, Remove Boxes, Strange Printer
-    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule
+    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule, Split Array Largest Sum
     Palindrone: Partition I, II, III, 
 
 **Coordinate:** 
