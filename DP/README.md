@@ -45,8 +45,9 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 **Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.  {XXXXXXX}[k....i]  dp[i][j] = min|max(dp[i-1][k-1], max[k][i])
     
     Eliminate: Burst Balloon, Remove Boxes, Strange Printer
-    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule, Split Array Largest Sum
+    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule
     Palindrone: Partition I, II, III, 
+    Binary Search: Split Array Largest Sum
 
 **Coordinate:** 
     
@@ -64,7 +65,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **Digit:** Use tree analysis, divide the cur number into two part. On the upper bound or not.
 
-    Find All Good Strings, Number of Digit One
+    Find All Good Strings, Number of Digit One, Digit Count in Range
 
 ### Tricks
 1. Initialization. 
