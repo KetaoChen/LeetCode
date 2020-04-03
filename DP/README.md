@@ -62,6 +62,10 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
     Beautiful Arrangement, TSP, SuperString, Number of Squareful Arrays
 
+**Digit:** Use tree analysis, divide the cur number into two part. On the upper bound or not.
+
+    Find All Good Strings, Number of Digit One
+
 ### Tricks
 1. Initialization. 
 Sometimes, it is difficult to find. So use dfs + memo is easier to solve. e.g. 1340. Jump Game V
