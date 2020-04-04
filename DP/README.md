@@ -32,8 +32,8 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     
 **Bi-Sequence:** 
     
-    Match: Regex
-    LCS: Delete Operation for Two Strings, Edit Distance, Interleaving String, Shortest Common Supersequence
+    Match: Regex, Edit Distance
+    LCS: Delete Operation for Two Strings, Interleaving String, Shortest Common Supersequence
     
 
 **Backpack:** 
@@ -46,8 +46,8 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     
     Eliminate: Burst Balloon, Remove Boxes, Strange Printer
     K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule
-    Palindrone: Partition I, II, III, 
-    Binary Search: Split Array Largest Sum
+    Palindrone: Partition I, II, III, Remove
+    Binary Search (minimize the max| maximize the min): Split Array Largest Sum
 
 **Coordinate:** 
     
@@ -82,5 +82,7 @@ We need to update the state which will not effect other result in this level fir
 1. Bit Mask: 
 Use bit to represent state, and O(1) time complexity to check the state.
 2. Elimination variable:
-When there is relationship between the varibles in the state, we can utilize the relationship to reduce dimension.
+When there is relationship between the varibles in the state, we can utilize the relationship to reduce dimension. (Avg, Diff, Sum)
 3. Use pi array to backtrack the path and print it out. (TSP 943, SuperSequence 1092)
+4. Prefix Sum: The current dp[i][j] is related to the prefix sum of dp[i-1][0:k] (903 DI Seq)
+5. Utilize all the information from the problem. The range of values. (Value backpack. ABC_DP_E)

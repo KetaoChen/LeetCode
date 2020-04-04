@@ -65,6 +65,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 837 | New 21 Game | Medium | [Solution](DP/837.%20New%2021%20Game)
 842 | Split Array into Fibonacci Sequence | Medium | [Solution](Backtrack/842.%20Split%20Array%20into%20Fibonacci%20Sequence)
 851 | Loud and Rich | Medium | [Solution](Tree/851.%20Loud%20and%20Rich)
+903 | Valid Permutations for DI Sequence | Hard | [Solution](DP/903.%20Valid%20Permutations%20for%20DI%20Sequence)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
 931 | Minimum Falling Path Sum | Medium | [Solution](DP/931.%20Minimum%20Falling%20Path%20Sum)
 943 | Find the Shortest Superstring | Hard | [Solution](DP/943.%20Find%20the%20Shortest%20Superstring)
