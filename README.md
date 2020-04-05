@@ -38,6 +38,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 306 | Additive Number | Medium | [Solution](Math/306.%20Additive%20Number)
 307 | Range Sum Query - Mutable | Medium | [Solution](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 347 | Top K Frequent Elements | Medium | [Solution](Trick/347.%20Top%20K%20Frequent%20Elements)
+368 | Largest Divisible Subset | Medium | [Solution](DP/368.%20Largest%20Divisible%20Subset)
 371 | Sum of Two Integers | Easy | [Solution](Bit%20Manipulation/371.%20Sum%20of%20Two%20Integers)
 377 | Combination Sum IV | Medium | [Solution](DP/377.%20Combination%20Sum%20IV)
 401 | Binary Watch | Easy | [Solution](Bit%20Manipulation/401.%20Binary%20Watch)

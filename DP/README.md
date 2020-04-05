@@ -27,7 +27,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     Painting House: I, II, Falling Path I, II, Longest Turbulent Subarray, Minimum Swaps To Make Sequences Increasing
     House Robber: I, II, III, Delete and Earn, Pizza with 3n Slices, Plant Tree(luogu 1484)
     Match: Word Break,
-    LIS: LIS, Russion Enve
+    LIS(Sort): LIS, Russion Enve, Largest Divisible Subset
     Other: New 21 Game
     
 **Bi-Sequence:** 
@@ -83,6 +83,6 @@ We need to update the state which will not effect other result in this level fir
 Use bit to represent state, and O(1) time complexity to check the state.
 2. Elimination variable:
 When there is relationship between the varibles in the state, we can utilize the relationship to reduce dimension. (Avg, Diff, Sum)
-3. Use pi array to backtrack the path and print it out. (TSP 943, SuperSequence 1092)
+3. Use path array to backtrack the path and print it out. (TSP 943, SuperSequence 1092, Largest Divisible Subset 368)
 4. Prefix Sum: The current dp[i][j] is related to the prefix sum of dp[i-1][0:k] (903 DI Seq)
 5. Utilize all the information from the problem. The range of values. (Value backpack. ABC_DP_E)
