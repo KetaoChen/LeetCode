@@ -75,6 +75,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 978 | Longest Turbulent Subarray | Medium | [Solution](DP/978.%20Longest%20Turbulent%20Subarray)
 990 | Satisfiability of Equality Equations | Medium | [Solution](Graph/990.%20Satisfiability%20of%20Equality%20Equations)
 996 | Number of Squareful Arrays | Hard | [Solution](DP/996.%20Number%20of%20Squareful%20Arrays)
+1062 | Longest Repeating Substring | Medium | [Solution](Trick/1062.%20Longest%20Repeating%20Substring)
 1067 | Digit Count in Range | Hard | [Solution](DP/1067.%20Digit%20Count%20in%20Range)
 1092 | Shortest Common Supersequence | Hard | [Solution](DP/1092.%20Shortest%20Common%20Supersequence)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
