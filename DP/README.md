@@ -65,7 +65,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **Digit:** Use tree analysis, divide the cur number into two part. On the upper bound or not.
 
-    Find All Good Strings, Number of Digit One, Digit Count in Range
+    Find All Good Strings, Number of Digit One, Digit Count in Range, Find All Good Strings
 
 ### Tricks
 1. Initialization. 
@@ -86,3 +86,4 @@ When there is relationship between the varibles in the state, we can utilize the
 3. Use path array to backtrack the path and print it out. (TSP 943, SuperSequence 1092, Largest Divisible Subset 368)
 4. Prefix Sum: The current dp[i][j] is related to the prefix sum of dp[i-1][0:k] (903 DI Seq)
 5. Utilize all the information from the problem. The range of values. (Value backpack. ABC_DP_E)
+6. String & Digit: Using KMP (Find All Good Strings 1397)
