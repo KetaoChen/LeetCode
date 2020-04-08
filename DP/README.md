@@ -45,7 +45,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 **Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.  {XXXXXXX}[k....i]  dp[i][j] = min|max(dp[i-1][k-1], max[k][i])
     
     Eliminate: Burst Balloon, Remove Boxes, Strange Printer
-    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule
+    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule, Partition Array for Maximum Sum
     Palindrone: Partition I, II, III, Remove
     Binary Search (minimize the max| maximize the min): Split Array Largest Sum
 
