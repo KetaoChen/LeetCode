@@ -65,7 +65,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **Digit:** Use tree analysis, divide the cur number into two part. On the upper bound or not.
 
-    Find All Good Strings, Number of Digit One, Digit Count in Range, Find All Good Strings
+    Find All Good Strings, Number of Digit One, Digit Count in Range, Find All Good Strings, Rotated Digits
 
 ### Tricks
 1. Initialization. 
