@@ -38,6 +38,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 305 | Number of Islands II | Hard | [Solution](Graph/305.%20Number%20of%20Islands%20II)
 306 | Additive Number | Medium | [Solution](Math/306.%20Additive%20Number)
 307 | Range Sum Query - Mutable | Medium | [Solution](SegmentTree/307.%20Range%20Sum%20Query%20-%20Mutable)
+312 | Burst Balloons | Hard | [Solution](DP/312.%20Burst%20Balloons)
 347 | Top K Frequent Elements | Medium | [Solution](Trick/347.%20Top%20K%20Frequent%20Elements)
 368 | Largest Divisible Subset | Medium | [Solution](DP/368.%20Largest%20Divisible%20Subset)
 371 | Sum of Two Integers | Easy | [Solution](BitManipulation/371.%20Sum%20of%20Two%20Integers)
