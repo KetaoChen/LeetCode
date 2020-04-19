@@ -28,7 +28,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
     House Robber: I, II, III, Delete and Earn, Pizza with 3n Slices, Plant Tree(luogu 1484)
     Match: Word Break,
     LIS(Sort): LIS, Russion Enve, Largest Divisible Subset
-    Other: New 21 Game
+    Other: New 21 Game, Build Array Where You Can Find The Maximum Exactly K Comparisons
     
 **Bi-Sequence:** 
     
@@ -87,3 +87,4 @@ When there is relationship between the varibles in the state, we can utilize the
 4. Prefix Sum: The current dp[i][j] is related to the prefix sum of dp[i-1][0:k] (903 DI Seq)
 5. Utilize all the information from the problem. The range of values. (Value backpack. ABC_DP_E)
 6. String & Digit: Using KMP (Find All Good Strings 1397)
+7. Check whether the last element can make some contribution to the res. (1420)
