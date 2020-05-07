@@ -63,6 +63,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 664 | Strange Printer | Hard | [Solution](DP/664.%20Strange%20Printer)
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](Backtrack/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 740 | Delete and Earn | Medium | [Solution](DP/740.%20Delete%20and%20Earn)
+743 | Network Delay Time | Medium | [Solution](Graph/743.%20Network%20Delay%20Time)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](BitManipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
 788 | Rotated Digits | Easy | [Solution](DP/788.%20Rotated%20Digits)
