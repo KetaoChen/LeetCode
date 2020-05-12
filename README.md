@@ -65,6 +65,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 740 | Delete and Earn | Medium | [Solution](DP/740.%20Delete%20and%20Earn)
 743 | Network Delay Time | Medium | [Solution](Graph/743.%20Network%20Delay%20Time)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](BitManipulation/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
+763 | Partition Labels | Medium | [Solution](Array/763.%20Partition%20Labels)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
 788 | Rotated Digits | Easy | [Solution](DP/788.%20Rotated%20Digits)
 801 | Minimum Swaps To Make Sequences Increasing | Medium | [Solution](DP/801.%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing)
