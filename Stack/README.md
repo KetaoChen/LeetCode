@@ -17,6 +17,7 @@ Why use stack?
 3. Largest Histogram (LC 84)
 4. Minimum Cost Tree From Leaf Value (LC 1130)
 5. Remove K Digits (LC 402)
+6. Longest Valid Parentheses (LC 32)
 
 
 

@@ -15,6 +15,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 ---|---|---|---
 10 | Regular Expression Matching | Hard | [Solution](DP/10.%20Regular%20Expression%20Matching)
 17 | Letter Combinations of a Phone Number | Medium | [Solution](Backtrack/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
+32 | Longest Valid Parentheses | Hard | [Solution](Stack/32.%20Longest%20Valid%20Parentheses)
 39 | Combination Sum | Medium | [Solution](Backtrack/39.%20Combination%20Sum)
 40 | Combination Sum II | Medium | [Solution](Backtrack/40.%20Combination%20Sum%20II)
 54 | Spiral Matrix | Medium | [Solution](Trick/54.%20Spiral%20Matrix)
