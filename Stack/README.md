@@ -17,16 +17,19 @@
 
 
 
-## Deque
+## Deque (Slide Window) (range max/min, subarray sum)
 
-1. Constrained Subsequence Sum (Deque Dp)
-2. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+1. Constrained Subsequence Sum (Deque Dp) (LC 1425)
+2. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (LC 1438)
+3. Sliding Window Maximum (LC 239)
+4. Shortest Subarray with Sum at Least K (LC 862)
 
 
 
 ## Trick
 
 1. Every time, when we call stack.peek() or other stack method, we need to check whether stack.isEmpty().
+2. Remember to pollFirst element from deque when the first element is out of the range.
 
 
 
