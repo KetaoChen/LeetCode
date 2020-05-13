@@ -48,6 +48,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 371 | Sum of Two Integers | Easy | [Solution](BitManipulation/371.%20Sum%20of%20Two%20Integers)
 377 | Combination Sum IV | Medium | [Solution](DP/377.%20Combination%20Sum%20IV)
 401 | Binary Watch | Easy | [Solution](BitManipulation/401.%20Binary%20Watch)
+402 | Remove K Digits | Medium | [Solution](Stack/402.%20Remove%20K%20Digits)
 410 | Split Array Largest Sum | Hard | [Solution](DP/410.%20Split%20Array%20Largest%20Sum)
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 456 | 132 Pattern | Medium | [Solution](Stack/456.%20132%20Pattern)

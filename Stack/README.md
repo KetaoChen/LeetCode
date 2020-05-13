@@ -1,5 +1,7 @@
 # Stack & Deque
 
+Why use stack? 
+
 
 
 ## Recursion:
@@ -14,6 +16,32 @@
 2. Trapping Rain Water (LC 42)
 3. Largest Histogram (LC 84)
 4. Minimum Cost Tree From Leaf Value (LC 1130)
+5. Remove K Digits (LC 402)
+
+
+
+##### Template (Remove K Digits 402): 
+
+Since we want to get the largest number after removing K digits, the intuition for this problem is that we need to remove the number on the left side which is larger than the right side, which means that we want to keep an **monotonic non-decreasing** values in the new number.  In order to get a non-decreasing value, we can use monotonic stack to solve this problem.
+
+```java
+public String removeKdigits(String s, int k) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < s.length(); i++) {
+            char cur = s.charAt(i);
+            while (sb.length() > 0 && k > 0 && sb.charAt(sb.length() - 1) > cur) {
+                sb.deleteCharAt(sb.length() - 1);
+                k--;
+            }
+            if (sb.length() == 0  && cur == '0') continue;
+            sb.append(cur);
+        }
+        String res = sb.toString().substring(0, sb.length() - Math.min(sb.length(), k));
+        return res.length() == 0 ? "0" : res;
+    }
+```
+
+
 
 
 
