@@ -10,14 +10,14 @@ Why use stack?
 
 
 
-## Monotonic Stack
+## Monotonic Stack (Find next/previous larger/ smaller)
 
-1. Find next larger / smaller number
 2. Trapping Rain Water (LC 42)
 3. Largest Histogram (LC 84)
 4. Minimum Cost Tree From Leaf Value (LC 1130)
 5. Remove K Digits (LC 402)
 6. Longest Valid Parentheses (LC 32)
+6. Online Stock Span(LC 901)
 
 
 
@@ -58,7 +58,8 @@ public String removeKdigits(String s, int k) {
 ## Trick
 
 1. Every time, when we call stack.peek() or other stack method, we need to check whether stack.isEmpty().
-2. Remember to pollFirst element from deque when the first element is out of the range.
+2. Remember to poll the first element from deque when the first element is out of the range.
+3. When the elements have the same value, do we need to pop the last element or not. (LC 901 Online Stock Span)
 
 
 
