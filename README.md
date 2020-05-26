@@ -18,6 +18,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 32 | Longest Valid Parentheses | Hard | [Solution](Stack/32.%20Longest%20Valid%20Parentheses)
 39 | Combination Sum | Medium | [Solution](Backtrack/39.%20Combination%20Sum)
 40 | Combination Sum II | Medium | [Solution](Backtrack/40.%20Combination%20Sum%20II)
+42 | Trapping Rain Water | Hard | [Solution](Stack/42.%20Trapping%20Rain%20Water)
 54 | Spiral Matrix | Medium | [Solution](Trick/54.%20Spiral%20Matrix)
 60 | Permutation Sequence | Medium | [Solution](Math/60.%20Permutation%20Sequence)
 68 | Text Justification | Hard | [Solution](Math/68.%20Text%20Justification)
