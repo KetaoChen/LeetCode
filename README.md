@@ -110,3 +110,4 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1391 | Check if There is a Valid Path in a Grid | Medium | [Solution](Graph/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid)
 1397 | Find All Good Strings | Hard | [Solution](DP/1397.%20Find%20All%20Good%20Strings)
 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard | [Solution](DP/1420.%20Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons)
+1462 | Course Schedule IV | Medium | [Solution](Graph/1462.%20Course%20Schedule%20IV)
