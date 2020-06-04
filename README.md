@@ -94,6 +94,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1062 | Longest Repeating Substring | Medium | [Solution](Trick/1062.%20Longest%20Repeating%20Substring)
 1067 | Digit Count in Range | Hard | [Solution](DP/1067.%20Digit%20Count%20in%20Range)
 1092 | Shortest Common Supersequence | Hard | [Solution](DP/1092.%20Shortest%20Common%20Supersequence)
+1096 | Brace Expansion II | Hard | [Solution](Stack/1096.%20Brace%20Expansion%20II)
 1130 | Minimum Cost Tree From Leaf Values | Medium | [Solution](Tree/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](DP/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)

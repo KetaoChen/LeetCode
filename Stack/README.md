@@ -2,21 +2,31 @@
 
 Why use stack? 
 
+1. Simulate recursion, storing the temporary values in the stack for current level. 
+2. Monotonic stack, avoid repeated calculation, get the next/ previous larger/ smaller value. 
 
 
-## Recursion:
+
+## Recursion: (Understand when to solve the subproblem)
+
+**Usually when the parenthesis comes, we need to start solve the subproblem in the parenthesis first.**
+
+**Understanding the definition of each character, basically there are *add & multiplication* operation**
 
 1. Decoding String (LC 394)
+2. Mini Parser (LC 385)
+3. Basic Calculators (LC 224, 227, 772)
+4. Brace Expansion II (LC 1096) 
 
 
 
 ## Monotonic Stack (Find next/previous larger/ smaller)
 
-2. Trapping Rain Water (LC 42)
-3. Largest Histogram (LC 84)
-4. Minimum Cost Tree From Leaf Value (LC 1130)
-5. Remove K Digits (LC 402)
-6. Longest Valid Parentheses (LC 32)
+1. Trapping Rain Water (LC 42)
+2. Largest Histogram (LC 84)
+3. Minimum Cost Tree From Leaf Value (LC 1130)
+4. Remove K Digits (LC 402)
+5. Longest Valid Parentheses (LC 32)
 6. Online Stock Span(LC 901)
 
 
