@@ -45,7 +45,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 **Interval:** If it is explicitly said divide into k part. e.g. Palin Partition III.  {XXXXXXX}[k....i]  dp[i][j] = min|max(dp[i-1][k-1], max[k][i])
     
     Eliminate: Burst Balloon, Remove Boxes, Strange Printer
-    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule, Partition Array for Maximum Sum
+    K Parts: Largest Sum of Averages, Minimum Difficulty of a Job Schedule, Partition Array for Maximum Sum, Painting House III
     Palindrone: Partition I, II, III, Remove
     Binary Search (minimize the max| maximize the min): Split Array Largest Sum
 
@@ -71,6 +71,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 1. Initialization. 
 Sometimes, it is difficult to find. So use dfs + memo is easier to solve. e.g. 1340. Jump Game V
 Sometimes, we need to think about the basic case clear. e.g. 956. Tallest Billboard & 10. Regular Expression Matching
+Invalid state initialization: 1473. Painting House III
 2. Check the bound. 
 Because of the transfer equation, we have to make sure the indexes are not out of bound. 
 3. Update order.
