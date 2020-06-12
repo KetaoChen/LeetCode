@@ -28,6 +28,7 @@ Why use stack?
 4. Remove K Digits (LC 402)
 5. Longest Valid Parentheses (LC 32)
 6. Online Stock Span(LC 901)
+7. Remove Duplicate Letters (LC 316)
 
 
 
@@ -70,6 +71,7 @@ public String removeKdigits(String s, int k) {
 1. Every time, when we call stack.peek() or other stack method, we need to check whether stack.isEmpty().
 2. Remember to poll the first element from deque when the first element is out of the range.
 3. When the elements have the same value, do we need to pop the last element or not. (LC 901 Online Stock Span)
+4. Because of the monotonic, it can be used to find the lexicographical min/max value. (LC 316)
 
 
 
