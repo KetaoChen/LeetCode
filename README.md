@@ -42,6 +42,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 254 | Factor Combinations | Medium | [Solution](Backtrack/254.%20Factor%20Combinations)
 260 | Single Number III | Medium | [Solution](BitManipulation/260.%20Single%20Number%20III)
 264 | Ugly Number II | Medium | [Solution](DP/264.%20Ugly%20Number%20II)
+285 | Inorder Successor in BST | Medium | [Solution](Tree/285.%20Inorder%20Successor%20in%20BST)
 305 | Number of Islands II | Hard | [Solution](Graph/305.%20Number%20of%20Islands%20II)
 306 | Additive Number | Medium | [Solution](Math/306.%20Additive%20Number)
 307 | Range Sum Query - Mutable | Medium | [Solution](SegmentTree/307.%20Range%20Sum%20Query%20-%20Mutable)
