@@ -17,6 +17,7 @@ Why use stack?
 2. Mini Parser (LC 385)
 3. Basic Calculators (LC 224, 227, 772)
 4. Brace Expansion II (LC 1096) 
+5. Number of Atoms (LC 726)
 
 
 
