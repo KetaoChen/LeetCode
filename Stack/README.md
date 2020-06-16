@@ -9,15 +9,26 @@ Why use stack?
 
 ## Recursion: (Understand when to solve the subproblem)
 
-**Usually when the parenthesis comes, we need to start solve the subproblem in the parenthesis first.**
 
-**Understanding the definition of each character, basically there are *add & multiplication* operation**
 
 1. Decoding String (LC 394)
 2. Mini Parser (LC 385)
-3. Basic Calculators (LC 224, 227, 772)
-4. Brace Expansion II (LC 1096) 
-5. Number of Atoms (LC 726)
+3. Basic Calculators (LC 224, 227, 772) (use a signal variable to record the previous operator)
+4. Brace Expansion II (LC 1096) (The signal of combo and return res) 
+5. Number of Atoms (LC 726) 
+6. Mini Parser (LC 385) (Differentiate the list and a single number)
+
+
+
+## Tips:
+
+1. Usually when the parenthesis comes, we need to start solve the subproblem in the parenthesis first.
+2. Understanding the definition of each character, basically there are *add & multiplication* operation
+3. The peek of the stack always store the data of the current level. 
+
+
+
+
 
 
 
