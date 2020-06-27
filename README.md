@@ -72,6 +72,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 611 | Valid Triangle Number | Medium | [Solution](Trick/611.%20Valid%20Triangle%20Number)
 664 | Strange Printer | Hard | [Solution](DP/664.%20Strange%20Printer)
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](Backtrack/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
+679 | 24 Game | Hard | [Solution](Backtrack/679.%2024%20Game)
 726 | Number of Atoms | Hard | [Solution](Stack/726.%20Number%20of%20Atoms)
 740 | Delete and Earn | Medium | [Solution](DP/740.%20Delete%20and%20Earn)
 743 | Network Delay Time | Medium | [Solution](Graph/743.%20Network%20Delay%20Time)
