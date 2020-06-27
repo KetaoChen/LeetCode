@@ -103,6 +103,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1092 | Shortest Common Supersequence | Hard | [Solution](DP/1092.%20Shortest%20Common%20Supersequence)
 1096 | Brace Expansion II | Hard | [Solution](Stack/1096.%20Brace%20Expansion%20II)
 1130 | Minimum Cost Tree From Leaf Values | Medium | [Solution](Tree/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)
+1240 | Tiling a Rectangle with the Fewest Squares | Hard | [Solution](Backtrack/1240.%20Tiling%20a%20Rectangle%20with%20the%20Fewest%20Squares)
 1267 | Count Servers that Communicate | Medium | [Solution](Graph/1267.%20Count%20Servers%20that%20Communicate)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](DP/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
 1278 | Palindrome Partitioning III | Hard | [Solution](DP/1278.%20Palindrome%20Partitioning%20III)
