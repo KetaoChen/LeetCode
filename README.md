@@ -58,6 +58,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 410 | Split Array Largest Sum | Hard | [Solution](DP/410.%20Split%20Array%20Largest%20Sum)
 448 | Find All Numbers Disappeared in an Array | Easy | [Solution](Trick/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 456 | 132 Pattern | Medium | [Solution](Stack/456.%20132%20Pattern)
+460 | LFU Cache | Hard | [Solution](LinkedList/460.%20LFU%20Cache)
 474 | Ones and Zeroes | Medium | [Solution](DP/474.%20Ones%20and%20Zeroes)
 476 | Number Complement | Easy | [Solution](BitManipulation/476.%20Number%20Complement)
 494 | Target Sum | Medium | [Solution](DP/494.%20Target%20Sum)
