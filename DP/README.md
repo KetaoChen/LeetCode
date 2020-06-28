@@ -61,7 +61,7 @@ dp[i] |= dp[j] when s[j-i] is a word for j=[1, i].
 
 **BitMask:** 
 
-    Beautiful Arrangement, TSP, SuperString, Number of Squareful Arrays
+    Beautiful Arrangement, TSP, SuperString, Number of Squareful Arrays, Parallel Courses II
 
 **Digit:** Use tree analysis, divide the cur number into two part. On the upper bound or not.
 
@@ -78,6 +78,7 @@ Because of the transfer equation, we have to make sure the indexes are not out o
 We need to update the state which will not effect other result in this level first. e.g. Backpack problems. From larger capacity. 
 4. Circle can be translate to sequence. 213. House Robber II
 5. Bit Manipulation to check the availability of each digit. Using (i>>k) & 1 == 0 or (i >>k) & 1 != 0
+6. Subset. for (int subset = mast; subset > 0; subset = (subset - 1) & mask)
 
 ### Tech
 1. Bit Mask: 
@@ -89,3 +90,4 @@ When there is relationship between the varibles in the state, we can utilize the
 5. Utilize all the information from the problem. The range of values. (Value backpack. ABC_DP_E)
 6. String & Digit: Using KMP (Find All Good Strings 1397)
 7. Check whether the last element can make some contribution to the res. (1420)
+8. Bit Mask with dependency and the usage of subset. (1494)
