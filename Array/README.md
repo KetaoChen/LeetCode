@@ -1,3 +1,14 @@
+# Array
+
+### 798. Smallest Rotation with Highest Score
+
+1. Consider the range of integer in the array. If num <= 0 || num >= l, we do not need to consider those numbers.
+2. Understand that the points that make it count and uncount is continuous. 
+3. Calculate the number of rotate time for each number to make it count and uncount.
+4. Pay attention to the index. Especially when the current position is the start of bad position, need to turn len times.
+
+
+
 ## Subarray Sum
 
 1. Maximum Subarray (LC 53) (Greedy)
@@ -21,10 +32,6 @@
    
 
 2. Maximum Sum Circular Subarray (LC 918) (Circular extend to double length)
-
-
-
-
 
 ## Sorted Chunk
 

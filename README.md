@@ -81,6 +81,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 763 | Partition Labels | Medium | [Solution](Array/763.%20Partition%20Labels)
 765 | Couples Holding Hands | Hard | [Solution](Graph/765.%20Couples%20Holding%20Hands)
 788 | Rotated Digits | Easy | [Solution](DP/788.%20Rotated%20Digits)
+798 | Smallest Rotation with Highest Score | Hard | [Solution](Array/798.%20Smallest%20Rotation%20with%20Highest%20Score)
 801 | Minimum Swaps To Make Sequences Increasing | Medium | [Solution](DP/801.%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing)
 803 | Bricks Falling When Hit | Hard | [Solution](Graph/803.%20Bricks%20Falling%20When%20Hit)
 805 | Split Array With Same Average | Hard | [Solution](DP/805.%20Split%20Array%20With%20Same%20Average)
