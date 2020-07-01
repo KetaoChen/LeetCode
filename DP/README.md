@@ -91,3 +91,12 @@ When there is relationship between the varibles in the state, we can utilize the
 6. String & Digit: Using KMP (Find All Good Strings 1397)
 7. Check whether the last element can make some contribution to the res. (1420)
 8. Bit Mask with dependency and the usage of subset. (1494)
+
+
+**Burst Balloon**:
+1. dp[i][j] is the max points we can get from the interval i-j.
+2. However, when we are looking for the subproblem, we enumerate k from i to j, the kth number is the one burst at last in this interval.
+
+**Dungeon Game**:
+1. dp[i][j] definition: the min hp we need at this cell. This is the question, and our answer is dp[0][0], so we need to start from the last cell, dp[row-1][col-1].
+

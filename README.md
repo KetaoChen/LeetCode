@@ -93,6 +93,7 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 862 | Shortest Subarray with Sum at Least K | Hard | [Solution](Stack/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K)
 886 | Possible Bipartition | Medium | [Solution](Graph/886.%20Possible%20Bipartition)
 903 | Valid Permutations for DI Sequence | Hard | [Solution](DP/903.%20Valid%20Permutations%20for%20DI%20Sequence)
+913 | Cat and Mouse | Hard | [Solution](DP/913.%20Cat%20and%20Mouse)
 924 | Minimize Malware Spread | Hard | [Solution](Graph/924.%20Minimize%20Malware%20Spread)
 931 | Minimum Falling Path Sum | Medium | [Solution](DP/931.%20Minimum%20Falling%20Path%20Sum)
 943 | Find the Shortest Superstring | Hard | [Solution](DP/943.%20Find%20the%20Shortest%20Superstring)
