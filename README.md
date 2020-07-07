@@ -128,3 +128,4 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1462 | Course Schedule IV | Medium | [Solution](Graph/1462.%20Course%20Schedule%20IV)
 1473 | Paint House III | Hard | [Solution](DP/1473.%20Paint%20House%20III)
 1494 | Parallel Courses II | Hard | [Solution](DP/1494.%20Parallel%20Courses%20II)
+1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Hard | [Solution](SegmentTree/1505.%20Minimum%20Possible%20Integer%20After%20at%20Most%20K%20Adjacent%20Swaps%20On%20Digits)
