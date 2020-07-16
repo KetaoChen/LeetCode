@@ -127,5 +127,6 @@ Gitbook is also availble from https://app.gitbook.com/@chenketao007/s/leetcode.
 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard | [Solution](DP/1420.%20Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons)
 1462 | Course Schedule IV | Medium | [Solution](Graph/1462.%20Course%20Schedule%20IV)
 1473 | Paint House III | Hard | [Solution](DP/1473.%20Paint%20House%20III)
+1483 | Kth Ancestor of a Tree Node | Hard | [Solution](Tree/1483.%20Kth%20Ancestor%20of%20a%20Tree%20Node)
 1494 | Parallel Courses II | Hard | [Solution](DP/1494.%20Parallel%20Courses%20II)
 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Hard | [Solution](SegmentTree/1505.%20Minimum%20Possible%20Integer%20After%20at%20Most%20K%20Adjacent%20Swaps%20On%20Digits)
